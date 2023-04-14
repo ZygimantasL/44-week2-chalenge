@@ -15,8 +15,8 @@ div{
     width: 130px;
 }
 img{
-    height: 130px;
-    width: 130px;
+    width: 100%;
+    aspect-ratio: 1/1 ;
     filter: invert(1);
     align-items: top;
 }
