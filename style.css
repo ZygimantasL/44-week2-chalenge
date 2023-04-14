@@ -26,6 +26,7 @@ h1{
     font-weight: normal;
     color:#f24c32;
     text-align: center;
+    text-transform: uppercase;
 }
 p{
     font-size: 10px;
