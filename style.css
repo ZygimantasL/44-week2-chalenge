@@ -20,6 +20,18 @@ img{
     filter: invert(1);
     align-items: top;
 }
+.discover{
+    background-color: #51C3CD;
+}
+.design{
+   background-color: #3A6EC1;
+}
+.develop{
+   background-color: #F34D33;
+}
+.deploy{
+    background-color: #919191;
+}
 h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: normal;
